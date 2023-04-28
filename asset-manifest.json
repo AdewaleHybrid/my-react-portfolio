@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AdewaleHybrid/my-react-portfolio/static/css/main.a5a3ef68.css",
-    "main.js": "/AdewaleHybrid/my-react-portfolio/static/js/main.865fc294.js",
-    "static/media/kbronx.png": "/AdewaleHybrid/my-react-portfolio/static/media/kbronx.93a39ec16fede29aac86.png",
-    "static/media/CV.pdf": "/AdewaleHybrid/my-react-portfolio/static/media/CV.7a1f56340c1874bab433.pdf",
-    "static/media/testimonial1.JPG": "/AdewaleHybrid/my-react-portfolio/static/media/testimonial1.288efa07543f56f51d82.JPG",
-    "static/media/me.JPG": "/AdewaleHybrid/my-react-portfolio/static/media/me.9a65a3b44b5dff7dcd5d.JPG",
-    "static/media/testimonial2.JPG": "/AdewaleHybrid/my-react-portfolio/static/media/testimonial2.f57c3d46470c44bdc4a6.JPG",
-    "static/media/testimonial4.JPG": "/AdewaleHybrid/my-react-portfolio/static/media/testimonial4.3a90f8cef17bac15ef6e.JPG",
-    "static/media/testimonial3.JPG": "/AdewaleHybrid/my-react-portfolio/static/media/testimonial3.ba91da8114506753ce9b.JPG",
-    "index.html": "/AdewaleHybrid/my-react-portfolio/index.html",
-    "main.a5a3ef68.css.map": "/AdewaleHybrid/my-react-portfolio/static/css/main.a5a3ef68.css.map",
-    "main.865fc294.js.map": "/AdewaleHybrid/my-react-portfolio/static/js/main.865fc294.js.map"
+    "main.css": "/github.io/react-portfolio/static/css/main.83ad882a.css",
+    "main.js": "/github.io/react-portfolio/static/js/main.5bb52d48.js",
+    "static/media/kbronx.png": "/github.io/react-portfolio/static/media/kbronx.93a39ec16fede29aac86.png",
+    "static/media/CV.pdf": "/github.io/react-portfolio/static/media/CV.7a1f56340c1874bab433.pdf",
+    "static/media/testimonial1.JPG": "/github.io/react-portfolio/static/media/testimonial1.288efa07543f56f51d82.JPG",
+    "static/media/me.JPG": "/github.io/react-portfolio/static/media/me.9a65a3b44b5dff7dcd5d.JPG",
+    "static/media/testimonial2.JPG": "/github.io/react-portfolio/static/media/testimonial2.f57c3d46470c44bdc4a6.JPG",
+    "static/media/testimonial4.JPG": "/github.io/react-portfolio/static/media/testimonial4.3a90f8cef17bac15ef6e.JPG",
+    "static/media/testimonial3.JPG": "/github.io/react-portfolio/static/media/testimonial3.ba91da8114506753ce9b.JPG",
+    "index.html": "/github.io/react-portfolio/index.html",
+    "main.83ad882a.css.map": "/github.io/react-portfolio/static/css/main.83ad882a.css.map",
+    "main.5bb52d48.js.map": "/github.io/react-portfolio/static/js/main.5bb52d48.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5a3ef68.css",
-    "static/js/main.865fc294.js"
+    "static/css/main.83ad882a.css",
+    "static/js/main.5bb52d48.js"
   ]
 }
